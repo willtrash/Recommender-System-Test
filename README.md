@@ -5,7 +5,7 @@ Avaliar se a introdução de um sistema de recomendação melhorado (grupo B) au
 
 ---
 
-## O teste (resumo técnico)
+## Resumo técnico do teste A/B
 - **Nome:** recommender_system_test  
 - **Período de campanha:** 07-12-2020 a 01-01-2021 (parada de captação de novos usuários: 21-12-2020)  
 - **Público:** 15% de novos usuários da região UE  
@@ -16,7 +16,7 @@ Avaliar se a introdução de um sistema de recomendação melhorado (grupo B) au
 
 ---
 
-## O que foi feito (metodologia aplicada)
+## Metodologia
 1. **Carregamento e inspeção inicial dos dados**  
    - Identificação de schemas/colunas relevantes (user_id, cohort/group, event_type, event_time, signup_date, region etc.).
 2. **Limpeza e pré-processamento**  
