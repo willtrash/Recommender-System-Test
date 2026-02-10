@@ -70,10 +70,10 @@ Avaliar se a introdução de um sistema de recomendação melhorado (grupo B) au
 
 ---
 
-## Linguagens e bibliotecas
+## Tecnologias e bibliotecas
 
-Linguagem: Python
-Bibliotecas: pandas, matplotlib, seaborn, proportions_ztest
+- Linguagem: **Python**
+- Bibliotecas: **pandas, matplotlib, pyplot, seaborn, proportions_ztest**
 
 ---
 
